@@ -1,3 +1,3 @@
-**SYRINGE**
+SYRINGE
 
 Simple, Free, Keyless, Forever
